@@ -107,6 +107,7 @@
 - **Writing Software**
   - Beyond Microsoft Word.
     - Overleaf - [Access Here](https://www.overleaf.com)
+    - LaTeX - [Access Here](https://1320071.github.io/2020-06-09-latex-guide/)
     
 - **File Storage**
   - Keep your research handy so you can work on it whenever and wherever! This also means you can share with your supervisor.
@@ -191,3 +192,4 @@ Thank you for your suggestions! If added you will be added to the acknowledement
 - [*Hanan Hindy*](https://hananhindy.com/home), Abertay University
 - [*Mikey*](https://twitter.com/0xmachos)
 - [*Scott*](https://github.com/SCOTTLB)
+- [*Mairi McQueer*](https://twitter.com/mairi_mcqueer), Abertay University
